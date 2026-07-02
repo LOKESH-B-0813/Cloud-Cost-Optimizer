@@ -1,7 +1,7 @@
 
   # Cloud Cost Optimizer SaaS App
 
-  This is a code bundle for Cloud Cost Optimizer SaaS App. The original project is available at https://www.figma.com/design/RAAd3z6rzKmtdn4ae7vsQ7/Cloud-Cost-Optimizer-SaaS-App.
+  
 
   ## Running the code
 
