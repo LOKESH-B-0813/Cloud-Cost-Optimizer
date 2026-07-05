@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Cost Optimizer",
+  "description": "An enterprise-grade multi-cloud cost optimization, calculation, and comparison platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
