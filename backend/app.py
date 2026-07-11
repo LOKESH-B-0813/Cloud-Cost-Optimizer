@@ -4,8 +4,8 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 from flask_jwt_extended import JWTManager
 
-from backend.config import Config
-from backend.database import db, migrate
+from config import Config
+from database import db, migrate
 
 # Configure logging
 logging.basicConfig(
